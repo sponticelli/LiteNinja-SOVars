@@ -1,0 +1,25 @@
+{
+  "name": "com.liteninja.sovars",
+  "version": "1.0.0",
+  "displayName": "LiteNinja SOVars",
+  "description": "A Scriptable Object variable library for Unity3d",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-SOVars/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-SOVars/blob/main/changelog.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-SOVars/blob/main/LICENSE",
+  "dependencies": {
+    "com.liteninja.utils": "1.1.4",
+    "com.liteninja.soevents": "1.0.1"
+  },
+  "keywords": [
+    "scriptable object",
+    "architecture",
+    "variables",
+    "references",
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": "https://github.com/sponticelli"
+  }
+}
